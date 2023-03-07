@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+
+  .container-btn {
+    display:flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+ }
+ 
+ .btn-purchase {
+         margin-top: 25px;
+         height: 30px; 
+         width: 100px;
+         border: 1px solid ;
+         border-radius: 5px; 
+         text-align: center;
+         background-color: grey;
+         color: black;
+         font-weight: 900;
+         padding-top: 5px;
+ }
+ 
+ .empty-cart {
+     width: 150px;
+     height: 150px;
+ }
+ 
+ .container_img {
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+ }
+ 
+ .text-cart {
+     text-align: center;
+ }
+ 

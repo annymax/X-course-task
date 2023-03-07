@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+
+.form-search{
+    padding-top: 20px;
+    padding-left: 33px;
+}  
+
+.search-book {
+    width: 200px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.search-price {
+    height: 30px;
+    width: 200px;
+    margin-left: 30px;
+}
+
+.search {
+    width: 100px;
+    height: 30px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.card {
+    width: 30%;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+
+.btn1 {
+    height: 30px; 
+    border: 1px solid ;
+    border-radius: 5px; 
+}
+
+.btn_view {
+    width: 90px;
+    height: 30px; 
+    border: 1px solid ;
+    border-radius: 5px; 
+}
+
+.book_img {
+    display: block;
+    margin: auto;
+    width: 250px; 
+    height: 330px;
+}
+
+.price_wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.book_title {
+    font-size: 14px;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+
+.footer-text {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        margin-top: 100px;
+} 
